@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/icon/circle.png</file>
+        <file>UI/icon/clear.png</file>
+        <file>UI/icon/curve.png</file>
+        <file>UI/icon/eraser.png</file>
+        <file>UI/icon/fill.png</file>
+        <file>UI/icon/line.png</file>
+        <file>UI/icon/pencil.png</file>
+        <file>UI/icon/polygon.png</file>
+        <file>UI/MyButton.qml</file>
+        <file>UI/ToolBar.qml</file>
+        <file>UI/icon/ellipse.png</file>
+        <file>UI/icon/thickness.png</file>
+        <file>UI/icon/rotate.png</file>
+        <file>UI/icon/clip.png</file>
+        <file>UI/icon/select.png</file>
+        <file>UI/icon/3d.png</file>
+        <file>UI/icon/load.png</file>
+        <file>UI/icon/save.png</file>
+    </qresource>
+</RCC>
